@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:3:4-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\blue9\.gradle\caches\transforms-3\a90b7f2be340304efa6978ac88b5b282\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\blue9\.gradle\caches\transforms-3\a90b7f2be340304efa6978ac88b5b282\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\blue9\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\blue9\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\blue9\.gradle\caches\transforms-3\a90b7f2be340304efa6978ac88b5b282\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\cb873661815ed928d32141e948349a04\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\blue9\.gradle\caches\transforms-3\a9ac25379e5d0a28a3e0ae6755c65965\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\67d588317f1e412f15d45fda1d5de7c3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\5727a38748b7866dbfba982de07b21b4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\370089fe30b293b0592b89f39a9283b8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\d687a253b5d5cf9028615eb90d0aed6b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\blue9\.gradle\caches\transforms-3\a90b7f2be340304efa6978ac88b5b282\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\blue9\.gradle\caches\transforms-3\a5c106e619ae826ac1dcfbc58a0a278f\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\1379f227cf4ee2f68d2928619b8150aa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\6d93f003f6e4f8162201b39c2f980887\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\a7dc96ad72a712dbc5ecf48ff9c7c3d2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\b49c7668a280926dac4edf77cbfd9b5c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\4a83d79abee20d6efa4e623af3340a8f\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\blue9\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\blue9\.gradle\caches\transforms-3\c7c577fe46c575fdddaa99896c0a7a20\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\blue9\.gradle\caches\transforms-3\b3bd714a3221a67cb977b4e4ccd42a92\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:1:1-34:12
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\cb873661815ed928d32141e948349a04\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\cb873661815ed928d32141e948349a04\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\blue9\.gradle\caches\transforms-3\a9ac25379e5d0a28a3e0ae6755c65965\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\blue9\.gradle\caches\transforms-3\a9ac25379e5d0a28a3e0ae6755c65965\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\67d588317f1e412f15d45fda1d5de7c3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\67d588317f1e412f15d45fda1d5de7c3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\5727a38748b7866dbfba982de07b21b4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\5727a38748b7866dbfba982de07b21b4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\370089fe30b293b0592b89f39a9283b8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\370089fe30b293b0592b89f39a9283b8\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\d687a253b5d5cf9028615eb90d0aed6b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\d687a253b5d5cf9028615eb90d0aed6b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\blue9\.gradle\caches\transforms-3\a90b7f2be340304efa6978ac88b5b282\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\blue9\.gradle\caches\transforms-3\a90b7f2be340304efa6978ac88b5b282\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\blue9\.gradle\caches\transforms-3\a5c106e619ae826ac1dcfbc58a0a278f\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\blue9\.gradle\caches\transforms-3\a5c106e619ae826ac1dcfbc58a0a278f\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\1379f227cf4ee2f68d2928619b8150aa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\1379f227cf4ee2f68d2928619b8150aa\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\6d93f003f6e4f8162201b39c2f980887\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\6d93f003f6e4f8162201b39c2f980887\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\a7dc96ad72a712dbc5ecf48ff9c7c3d2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\a7dc96ad72a712dbc5ecf48ff9c7c3d2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\b49c7668a280926dac4edf77cbfd9b5c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\blue9\.gradle\caches\transforms-3\b49c7668a280926dac4edf77cbfd9b5c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\4a83d79abee20d6efa4e623af3340a8f\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\blue9\.gradle\caches\transforms-3\4a83d79abee20d6efa4e623af3340a8f\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\blue9\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\blue9\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\blue9\.gradle\caches\transforms-3\c7c577fe46c575fdddaa99896c0a7a20\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\blue9\.gradle\caches\transforms-3\c7c577fe46c575fdddaa99896c0a7a20\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\blue9\.gradle\caches\transforms-3\b3bd714a3221a67cb977b4e4ccd42a92\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\blue9\.gradle\caches\transforms-3\b3bd714a3221a67cb977b4e4ccd42a92\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\blue9\OneDrive\Desktop\plantApp\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\blue9\.gradle\caches\transforms-3\8b9f426658485e043615c76b520f7d3d\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
